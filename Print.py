@@ -1,4 +1,4 @@
 message='Hello there!'
-def say(message):
+def mtf(message):
   print(message)
-say(message)
+mtf(message)
