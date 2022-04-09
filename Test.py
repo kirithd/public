@@ -1,1 +1,4 @@
-rrbrvrvbbrb
+message='Test'
+
+def say(message):
+  print(message)
